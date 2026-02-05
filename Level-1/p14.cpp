@@ -3,7 +3,7 @@ using namespace std;
 
 /*
    - This Procedure Print form ( a to z ) 
-   - loop Of Ascii Table A = 65 , Z = 90) 
+   - loop for Ascii Table A = 65 , Z = 90) 
 */
 
 void PrintLettersAtoZ(){
